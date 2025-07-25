@@ -1,0 +1,29 @@
+body {
+    background-color: #0b0c10;
+    font-family: 'Orbitron', sans-serif;
+    color: #66fcf1;
+}
+
+.header {
+    text-align: center;
+    font-size: 2.8rem;
+    padding: 30px;
+    color: #f8f8f8;
+    text-shadow: 0 0 20px #66fcf1;
+}
+
+.slider-div {
+    width: 80%;
+    margin: auto;
+    padding-bottom: 40px;
+}
+
+.slider .rc-slider-track {
+    background-color: #66fcf1;
+}
+
+.slider .rc-slider-handle {
+    background-color: #45a29e;
+    border: solid 2px #66fcf1;
+}
+
